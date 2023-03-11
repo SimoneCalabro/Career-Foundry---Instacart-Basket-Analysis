@@ -18,7 +18,7 @@ The goal was to uncover more informations about _sales patterns_ (such as, busie
 Here you will find a list of folders contained in the repository, along with a short description.
 
 - **Instacart basket analysis:** the main folder. It contains 4 sub folders:
-  - **01. Project management:** Contains the Project brief (additional information on project's overview, context and goal).
+  - **01. Project management:** Contains the _Project brief_ (additional information on project's overview, context and goal).
   - **03. Scripts:** Contains all Python scripts (Jupyter noteebook). Inside scripts you can find all data manipulations described in the _"Skills"_ section below.
   - **04. Analisys/Visualizations:** Contains all the charts and visualizations created while carrying out the project.
   - **05. Sent to client:** Contains an excel report that summarize the population flow, all the wrangling steps, the consistency checks, the columns derived and the answers to the key questions (the analysis' main goal).
