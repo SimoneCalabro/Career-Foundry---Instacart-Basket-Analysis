@@ -46,7 +46,7 @@ Here you can find a list of all libraries installed and imported into scripts:
 - scipy
 
 ## Skills:
-A summary of what I learned:
+A summary of what I applied:
 
 WIP - to be adjusted
 - Cleaning data
