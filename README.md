@@ -11,7 +11,14 @@ Short description of the project (Project Brief 3 and 4).
 
 Note that prices fabricated
 
-##Folders:
+## Folders:
 
 ## Dataset:
 Information on datasets, source
+
+## Tools:
+used:
+
+- pandas;
+- numpy
+- matplotlib
