@@ -23,8 +23,15 @@ Here you will find a list of folders contained in the repository, along with a s
   - **04. Analisys/Visualizations:** Contains all the charts and visualizations created while carrying out the project.
   - **05. Sent to client:** Contains an excel report that summarize the population flow, all the wrangling steps, the consistency checks, the columns derived and the answers to the key questions (the analysis' main goal).
 
+**Note:** Section _02._ is missing because it contained the datasets used, both _Original data_ (raw) and _Prepared Data_ (manipulated).
+Since files size was higher than 25 MB, it was impossible to upload them.
+
 ## Dataset:
 As explained above, Instacart made their data open source.
+
+Keep in mind that sensitive contents (such as prices and customers information) have been fabricated for the purpose of this project.
+
+Below you can find a link to download the orders dataset, the customers dataset and a Github data dictionary containing a brief description of the variables.
 
 [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
 
@@ -37,7 +44,7 @@ As explained above, Instacart made their data open source.
   - Jupyter
 
 ## Libraries:
-Here you can find a list of all libraries installed and imported into scripts:
+Here you can find a list of all libraries installed and imported into my scripts:
 
 - pandas
 - numpy
@@ -49,16 +56,15 @@ Here you can find a list of all libraries installed and imported into scripts:
 ## Skills:
 A summary of what I applied:
 
-WIP - to be adjusted
 - Cleaning data
   - Data wrangling (renaming columns, dropping columns, transposing, changing columns datatype)
   - Consistency checks (handling missing values, duplicates and mixed-type data)
-- Data dictionary
-- Subset
-- Descriptive statistics
-- Grouping and aggregating
+- Creating a data dictionary
+- Creating a Subset
+- Calculate descriptive statistics
+- Grouping and aggregating data
 - Creating crosstabs
 - Deriving new variables (if-statements, loc function and for-loops)
 - Create visualizations (histograms, bar charts, stacked bar charts, line charts, pie charts, scatterplots)
-- Merging two dataframes (concatenating, append, join)
+- Merging two dataframes (concatenating, append, join merge)
 - Exporting dataframes (both in CSV and PKL format)
