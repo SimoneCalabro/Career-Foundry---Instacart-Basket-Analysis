@@ -4,7 +4,7 @@ This repository contains all data (including my Jupyter notebooks and scripts) r
 The project was part of the Data Analytics program I attended at Career Foundry.
 
 ## Project overview:
-![Instacart Logo](C:\Users\Simone\Desktop)
+![Instacart Logo](https://ibb.co/4RdQx0J)
 
 In the project, I covered the role of a data analyst working for Instacart, an existing 
 
