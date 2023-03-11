@@ -19,11 +19,12 @@ Here you will find a list of folders contained in the repository, along with a s
 
 - **Instacart basket analysis:** the main folder. It contains 4 sub folders:
   - **01. Project management:** Contains the Project brief (additional information on project's overview, context and goal).
-  - **03. Scripts** Contains all Python scripts (Jupyter noteebook). Inside scripts you can find all data manipulations described in the _"Skills"_ section below.
-  - WIP
+  - **03. Scripts:** Contains all Python scripts (Jupyter noteebook). Inside scripts you can find all data manipulations described in the _"Skills"_ section below.
+  - **04. Analisys/Visualizations:** Contains all the charts and visualizations created while carrying out the project.
+  - **05. Sent to client:** Contains an excel report that summarize the population flow, all the wrangling steps, the consistency checks, the columns derived and the answers to the key questions (the analysis' main goal).
 
 ## Dataset:
-WIP --- Give some informations on dataset and their source
+As explained above, Instacart made their data open source.
 
 [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
 
