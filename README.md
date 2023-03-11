@@ -61,10 +61,10 @@ A summary of what I applied:
   - Consistency checks (handling missing values, duplicates and mixed-type data)
 - Creating a data dictionary
 - Creating a Subset
-- Calculate descriptive statistics
+- Calculating descriptive statistics
 - Grouping and aggregating data
 - Creating crosstabs
 - Deriving new variables (if-statements, loc function and for-loops)
-- Create visualizations (histograms, bar charts, stacked bar charts, line charts, pie charts, scatterplots)
+- Creating visualizations (histograms, bar charts, stacked bar charts, line charts, pie charts, scatterplots)
 - Merging two dataframes (concatenating, append, join merge)
 - Exporting dataframes (both in CSV and PKL format)
