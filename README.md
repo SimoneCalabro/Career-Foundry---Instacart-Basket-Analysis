@@ -10,7 +10,7 @@ All analysis have been performed using **Python** (Anaconda navigator plus Jupyt
 
 I covered the role of a data analyst working for an existing company, Instacart, an online grocery store that operates through an app.
 
-The goal was to uncover more informations about _sales patterns_ (such as, busiest day and busiest hours from an order number perspective) and _customers purchasing behaviour_ (segmentation according to age, income,  regions, and so on).
+The goal was to uncover more informations about _sales patterns_ (such as, busiest day and busiest hours from an order number perspective) and _customers purchasing behaviour_ (segmentation according to age, income,  regions, and other variables).
 
 **Note:** Instacart is a real company that’s made their data available online. However, sensitive contents (such as prices and customers information) have been fabricated for the purpose of this project.
 
