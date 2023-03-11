@@ -48,6 +48,7 @@ Here you can find a list of all libraries installed and imported into scripts:
 ## Skills:
 A summary of what I learned:
 
+WIP - to be adjusted
 - Cleaning data
   - Data wrangling (renaming columns, dropping columns, transposing, changing columns datatype)
   - Consistency checks (handling missing values, duplicates and mixed-type data)
