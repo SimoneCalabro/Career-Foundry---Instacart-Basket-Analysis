@@ -30,7 +30,7 @@ used:
 what I learned:
 
 - Cleaning data
-  - Data wrangling (renaming columns, dropping columns, trasposing)
+  - Data wrangling (renaming columns, dropping columns, transposing, changing columns datatype)
   - Consistency checks (handling missing values, duplicates and mixed-type data)
 - Descriptive statistics
 - Create visualizations
