@@ -3,6 +3,8 @@ This repository contains all data (including my Jupyter notebooks and scripts) r
 
 The project was part of the Data Analytics program I attended at Career Foundry.
 
+All analysis have been performed using **Python** (Anaconda navigator plus Jupyter).
+
 ## Project overview:
 [![image](https://www.linkpicture.com/q/Picture1.jpg)](https://www.linkpicture.com/view.php?img=LPic640c7ff6b7d0f2097178861)
 
@@ -15,9 +17,13 @@ The goal was to uncover more informations about _sales patterns_ (such as, busie
 ## Folders:
 Here you will find a list of folders contained in the repository, along with a short description.
 
-- **Instacart basket analysis:** the main
+- **Instacart basket analysis:** the main folder. It contains 4 sub folders:
+  - **01. Project management:** Contains the Project brief (additional information on project's overview, context and goal).
+  - **03. Scripts** Contains all Python scripts (Jupyter noteebook). Inside scripts you can find all data manipulations described in the _"Skills"_ section below.
+  - WIP
 
 ## Dataset:
+WIP --- Give some informations on dataset and their source
 
 [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
 
@@ -25,16 +31,14 @@ Here you will find a list of folders contained in the repository, along with a s
 
 [Data dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
-Information on datasets, source
-
 ## Tools:
 - Anaconda
   - Jupyter
 
 ## Libraries:
-used:
+Here you can find a list of all libraries installed and imported into scripts:
 
-- pandas;
+- pandas
 - numpy
 - os
 - matplotlib
@@ -42,7 +46,7 @@ used:
 - scipy
 
 ## Skills:
-what I learned:
+A summary of what I learned:
 
 - Cleaning data
   - Data wrangling (renaming columns, dropping columns, transposing, changing columns datatype)
