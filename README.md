@@ -13,6 +13,9 @@ The goal was to uncover more informations about _sales patterns_ (such as, busie
 **Note:** Instacart is a real company that’s made their data available online. However, sensitive contents (such as prices and customers information) have been fabricated for the purpose of this project.
 
 ## Folders:
+Here you will find a list of folders contained in the repository, along with a short description.
+
+- **Instacart basket analysis:** the main
 
 ## Dataset:
 
