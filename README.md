@@ -1,5 +1,6 @@
 # Career Foundry - Instacart Basket Analysis
-This repository contains all the data (including my Jupyter notebooks) related to the project "Instacart Basket Analysis". <br>
+This repository contains all the data (including my Jupyter notebooks) related to the project "Instacart Basket Analysis".
+
 Waas a student at CF.
 
 ## Project overview:
