@@ -21,7 +21,7 @@ Here you will find a list of folders contained in the repository, along with a s
   - **01. Project management:** Contains the _Project brief_ (additional information on project's overview, context and goal).
   - **03. Scripts:** Contains all Python scripts (Jupyter notebooks). Within my scripts you can find all data manipulations described in the _"Skills"_ section below.
   - **04. Analisys/Visualizations:** Contains all the charts and visualizations created while carrying out the project.
-  - **05. Sent to client:** Contains an excel report that summarize the population flow, all the wrangling steps, the consistency checks, the columns derived and the answers to the key questions (the analysis' main goal).
+  - **05. Sent to client:** Contains an excel report that summarize the population flow, all wrangling steps, consistency checks, columns derived and answers to the key questions (the analysis' main goal).
 
 **Note:** Section _02._ is missing because it contained the datasets used, both _Original data_ (raw) and _Prepared Data_ (manipulated).
 Since files size was higher than 25 MB, it was impossible to upload them.
