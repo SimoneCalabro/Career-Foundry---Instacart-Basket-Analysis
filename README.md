@@ -6,15 +6,19 @@ The project was part of the Data Analytics program I attended at Career Foundry.
 ## Project overview:
 [![image](https://www.linkpicture.com/q/Picture1.jpg)](https://www.linkpicture.com/view.php?img=LPic640c7ff6b7d0f2097178861)
 
-In the project, I covered the role of a data analyst working for Instacart, an existing 
+In the project, I covered the role of a data analyst working for an existing company, Instacart, an online grocery store that operates through an app.
+
+The goal was to uncover more informations about _sales patterns_ (such as, busiest day and busiest hours from an order number perspective) and _customers purchasing behaviour_ (segmentation according to age, income,  regions, and so on).
 
 Short description of the project (Project Brief 3 and 4).
 
-Note that prices fabricated
+**Note:** Instacart is a real company that’s made their data available online. However, sensitive contents (such as prices and customers information) have been fabricated for the purpose of this project.
 
 ## Folders:
 
 ## Dataset:
+
+[The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
 Information on datasets, source
 
 ## Tools:
@@ -38,5 +42,5 @@ what I learned:
 - Grouping and aggregating
 - Deriving new variables (append and for-loops)
 - Create visualizations
-- Merging two dataframes
+- Merging two dataframes (inner join)
 - Exporting dataframes (both in CSV and PKL format)
