@@ -20,6 +20,10 @@ Note that prices fabricated
 Information on datasets, source
 
 ## Tools:
+- Anaconda
+  - Jupyter
+
+## Libraries:
 used:
 
 - pandas;
