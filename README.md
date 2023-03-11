@@ -18,9 +18,9 @@ The goal was to uncover more informations about _sales patterns_ (such as, busie
 
 [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
 
-Customers
+[Customers data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
 
-Data dictionary
+[Data dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
 Information on datasets, source
 
