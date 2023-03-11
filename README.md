@@ -1,12 +1,10 @@
 # Career Foundry - Instacart Basket Analysis
-This repository contains all the data (including my Jupyter notebooks) related to the project "Instacart Basket Analysis".
+This repository contains all data (including my Jupyter notebooks and scripts) related to the project "Instacart Basket Analysis".
 
-I made that project while being a student at Career Foundry.
-
-My first time using Python.
+The project was part of the Data Analytics program I attended at Career Foundry.
 
 ## Project overview:
-![Instacart Logo](
+![Instacart Logo](C:\Users\Simone\Desktop)
 
 In the project, I covered the role of a data analyst working for Instacart, an existing 
 
@@ -37,6 +35,8 @@ what I learned:
   - Data wrangling (renaming columns, dropping columns, transposing, changing columns datatype)
   - Consistency checks (handling missing values, duplicates and mixed-type data)
 - Descriptive statistics
+- Grouping and aggregating
+- Deriving new variables (append and for-loops)
 - Create visualizations
 - Merging two dataframes
-- Exporting dataframe (both in CSV and PKL format)
+- Exporting dataframes (both in CSV and PKL format)
